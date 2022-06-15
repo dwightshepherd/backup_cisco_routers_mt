@@ -1,0 +1,421 @@
+- hostname : ATG-MGMT-01
+  ip : "172.31.208.1"
+  device_type : cisco_ios  
+
+- hostname : ATG-P-01
+  ip : "172.31.208.2"
+  device_type : cisco_xe  
+
+- hostname : ATG-P-02
+  ip : "172.31.208.3"
+  device_type : cisco_xe  
+
+- hostname : ABW-MGMT-01
+  ip : "172.31.211.129"
+  device_type : cisco_ios  
+
+- hostname : ABW-P-01
+  ip : "172.31.211.130"
+  device_type : cisco_xe  
+
+- hostname : ABW-P-02
+  ip : "172.31.211.131"
+  device_type : cisco_xe  
+
+- hostname : BRB-MGMT-01
+  ip : "172.31.209.129"
+  device_type : cisco_ios  
+
+- hostname : BRB-P-01
+  ip : "172.31.209.130"
+  device_type : cisco_xe  
+
+- hostname : BRB-P-02
+  ip : "172.31.209.131"
+  device_type : cisco_xe
+
+- hostname : BMU-MGMT-01
+  ip : "172.31.205.129"
+  device_type : cisco_ios  
+
+- hostname : BMU-P-01
+  ip : "172.31.205.130"
+  device_type : cisco_xr  
+
+- hostname : BMU-P-02
+  ip : "172.31.205.131"
+  device_type : cisco_xr  
+
+- hostname : BMU-PE-01
+  ip : "172.31.205.132"
+  device_type : cisco_xe  
+
+- hostname : BMU-PE-02
+  ip : "172.31.205.133"
+  device_type : cisco_xe 
+
+- hostname : VGB-MGMT-01
+  ip : "172.31.207.129"
+  device_type : cisco_ios  
+
+- hostname : VGB-P-01
+  ip : "172.31.207.130"
+  device_type : cisco_xe  
+
+- hostname : VGB-P-02
+  ip : "172.31.207.131"
+  device_type : cisco_xe
+
+- hostname : CYM-MGMT-01
+  ip : "172.31.208.129"
+  device_type : cisco_ios  
+
+- hostname : CYM-P-01
+  ip : "172.31.208.130"
+  device_type : cisco_xe  
+
+- hostname : CYM-P-02
+  ip : "172.31.208.131"
+  device_type : cisco_xe
+
+- hostname : CUW-MGMT-01
+  ip : "172.31.204.1"
+  device_type : cisco_ios  
+
+- hostname : CUW-P-01
+  ip : "172.31.204.2"
+  device_type : cisco_xr  
+
+- hostname : CUW-P-02
+  ip : "172.31.204.3"
+  device_type : cisco_xr  
+
+- hostname : CUW-PE-01
+  ip : "172.31.204.4"
+  device_type : cisco_xe  
+
+- hostname : CUW-PE-02
+  ip : "172.31.204.5"
+  device_type : cisco_xe  
+
+- hostname : DMA-MGMT-01
+  ip : "172.31.209.1"
+  device_type : cisco_ios  
+
+- hostname : DMA-P-01
+  ip : "172.31.209.2"
+  device_type : cisco_xe  
+
+- hostname : DMA-P-02
+  ip : "172.31.209.3"
+  device_type : cisco_xe  
+
+- hostname : SLV-MGMT-01
+  ip : "172.31.205.1"
+  device_type : cisco_ios  
+
+- hostname : SLV-P-01
+  ip : "172.31.205.2"
+  device_type : cisco_xr  
+
+- hostname : SLV-P-02
+  ip : "172.31.205.3"
+  device_type : cisco_xr  
+
+- hostname : SLV-PE-01
+  ip : "172.31.205.4"
+  device_type : cisco_xe  
+
+- hostname : SLV-PE-02
+  ip : "172.31.205.5"
+  device_type : cisco_xe  
+
+- hostname : GUF-MGMT-01
+  ip : "172.31.212.1"
+  device_type : cisco_ios  
+
+- hostname : GUF-P-01
+  ip : "172.31.212.2"
+  device_type : cisco_xe  
+
+- hostname : GUF-P-02
+  ip : "172.31.212.3"
+  device_type : cisco_xe 
+
+- hostname : GRD-MGMT-01
+  ip : "172.31.210.129"
+  device_type : cisco_ios  
+
+- hostname : GRD-P-01
+  ip : "172.31.210.130"
+  device_type : cisco_xe  
+
+- hostname : GRD-P-02
+  ip : "172.31.210.131"
+  device_type : cisco_xe
+
+- hostname : GLP-MGMT-01
+  ip : "172.31.206.1"
+  device_type : cisco_ios  
+
+- hostname : GLP-P-01
+  ip : "172.31.206.2"
+  device_type : cisco_xr  
+
+- hostname : GLP-P-02
+  ip : "172.31.206.3"
+  device_type : cisco_xr  
+
+- hostname : GLP-PE-01
+  ip : "172.31.206.4"
+  device_type : cisco_xe  
+
+- hostname : GLP-PE-02
+  ip : "172.31.206.5"
+  device_type : cisco_xe  
+
+- hostname : GUY-PE-01
+  ip : "172.31.212.130"
+  device_type : cisco_xe  
+
+- hostname : GUY-PE-02
+  ip : "172.31.212.131"
+  device_type : cisco_xe
+
+- hostname : HTI-MGMT-01
+  ip : "172.31.201.129"
+  device_type : cisco_ios  
+
+- hostname : HTI-P-01
+  ip : "172.31.201.130"
+  device_type : cisco_xr  
+
+- hostname : HTI-P-02
+  ip : "172.31.201.131"
+  device_type : cisco_xr  
+
+- hostname : HTI-PE-01
+  ip : "172.31.201.132"
+  device_type : cisco_xe  
+
+- hostname : HTI-PE-02
+  ip : "172.31.201.133"
+  device_type : cisco_xe  
+
+- hostname : JAM-MGMT-01
+  ip : "172.31.201.1"
+  device_type : cisco_ios  
+
+- hostname : JAM-P-01
+  ip : "172.31.201.2"
+  device_type : cisco_xr  
+
+- hostname : JAM-P-02
+  ip : "172.31.201.3"
+  device_type : cisco_xr  
+
+- hostname : JAM-PE-01
+  ip : "172.31.201.4"
+  device_type : cisco_xe  
+
+- hostname : JAM-PE-02
+  ip : "172.31.201.5"
+  device_type : cisco_xe  
+
+- hostname : MTQ-MGMT-01
+  ip : "172.31.206.129"
+  device_type : cisco_ios  
+
+- hostname : MTQ-P-01
+  ip : "172.31.206.130"
+  device_type : cisco_xe  
+
+- hostname : MTQ-P-02
+  ip : "172.31.206.131"
+  device_type : cisco_xe
+
+- hostname : MIA-MGMT-01
+  ip : "172.31.200.129"
+  device_type : cisco_ios
+
+- hostname : MIA-MGMT-02
+  ip : "172.31.200.140"
+  device_type : cisco_ios
+
+- hostname : MIA-P-01
+  ip : "172.31.200.130"
+  device_type : cisco_xr      
+
+- hostname : MIA-P-02
+  ip : "172.31.200.131"
+  device_type : cisco_xr 
+
+- hostname : MIA-PE-01
+  ip : "172.31.200.132"
+  device_type : cisco_xr  
+
+- hostname : MIA-PE-02
+  ip : "172.31.200.133"
+  device_type : cisco_xr   
+
+- hostname : MIA-RR-01
+  ip : "172.31.200.136"
+  device_type : cisco_xe  
+
+- hostname : MIA-CE-01
+  ip : "172.31.200.151"
+  device_type : cisco_ios
+
+- hostname : MIA-CE-02
+  ip : "172.31.200.152"
+  device_type : cisco_ios
+
+- hostname : MIA-VPN-01
+  ip : "172.31.200.153"
+  device_type : cisco_xe
+
+- hostname : NYC-MGMT-01
+  ip : "172.31.200.1"
+  device_type : cisco_ios
+
+- hostname : NYC-MGMT-02
+  ip : "172.31.200.126"
+  device_type : cisco_ios
+
+- hostname : NYC-P-01
+  ip : "172.31.200.2"
+  device_type : cisco_xr      
+
+- hostname : NYC-P-02
+  ip : "172.31.200.3"
+  device_type : cisco_xr 
+
+- hostname : NYC-PE-01
+  ip : "172.31.200.4"
+  device_type : cisco_xr  
+
+- hostname : NYC-PE-02
+  ip : "172.31.200.5"
+  device_type : cisco_xr   
+
+- hostname : NYC-RR-01
+  ip : "172.31.200.8"
+  device_type : cisco_xe  
+
+- hostname : PRI-P-01
+  ip : "172.31.203.2"
+  device_type : cisco_xr  
+
+- hostname : PRI-P-02
+  ip : "172.31.203.3"
+  device_type : cisco_xr  
+
+- hostname : PRI-PE-01
+  ip : "172.31.203.4"
+  device_type : cisco_xe  
+
+- hostname : PRI-PE-02
+  ip : "172.31.203.5"
+  device_type : cisco_xe  
+
+- hostname : LCA-MGMT-01
+  ip : "172.31.204.129"
+  device_type : cisco_ios  
+
+- hostname : LCA-P-01
+  ip : "172.31.204.130"
+  device_type : cisco_xr  
+
+- hostname : LCA-P-02
+  ip : "172.31.204.131"
+  device_type : cisco_xr  
+
+- hostname : LCA-PE-01
+  ip : "172.31.204.132"
+  device_type : cisco_xe  
+
+- hostname : LCA-PE-02
+  ip : "172.31.204.133"
+  device_type : cisco_xe 
+
+- hostname : VCT-MGMT-01
+  ip : "172.31.210.1"
+  device_type : cisco_ios  
+
+- hostname : VCT-P-01
+  ip : "172.31.210.2"
+  device_type : cisco_xe  
+
+- hostname : VCT-P-02
+  ip : "172.31.210.3"
+  device_type : cisco_xe  
+
+- hostname : SUR-MGMT-01
+  ip : "172.31.211.1"
+  device_type : cisco_ios  
+
+- hostname : SUR-P-01
+  ip : "172.31.211.2"
+  device_type : cisco_xe  
+
+- hostname : SUR-P-02
+  ip : "172.31.211.3"
+  device_type : cisco_xe  
+
+- hostname : TTO-MGMT-01
+  ip : "172.31.202.129"
+  device_type : cisco_ios  
+
+- hostname : TTO-P-01
+  ip : "172.31.202.130"
+  device_type : cisco_xr  
+
+- hostname : TTO-P-02
+  ip : "172.31.202.131"
+  device_type : cisco_xr  
+
+- hostname : TTO-PE-01
+  ip : "172.31.202.132"
+  device_type : cisco_xe  
+
+- hostname : TTO-PE-02
+  ip : "172.31.202.133"
+  device_type : cisco_xe 
+
+- hostname : TCA-MGMT-01
+  ip : "172.31.207.1"
+  device_type : cisco_ios  
+
+- hostname : TCA-P-01
+  ip : "172.31.207.2"
+  device_type : cisco_xe  
+
+- hostname : TCA-P-02
+  ip : "172.31.207.3"
+  device_type : cisco_xe  
+
+- hostname : VIR-P-01
+  ip : "172.31.203.130"
+  device_type : cisco_xr  
+
+- hostname : VIR-P-02
+  ip : "172.31.203.131"
+  device_type : cisco_xr  
+
+- hostname : VIR-PE-01
+  ip : "172.31.203.132"
+  device_type : cisco_xe  
+
+- hostname : VIR-PE-02
+  ip : "172.31.203.133"
+  device_type : cisco_xe 
+
+# - name : DHL_TTO_PRI  
+#   connstr : "ssh -l admin -vrf V6:CPE_Provisioning-s 10.48.0.34"
+#   password : Digicel123!!
+#   device_type : cisco_ios
+#   circuit_id : GC-TTO-2008
+#   PE :
+#     hostname : TTO-PE-01
+#     ip : 172.31.202.132
+#     device_type : cisco_ios
